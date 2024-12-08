@@ -1,4 +1,4 @@
-# Java Interview Notes  
+# Java Notes  
  
 ## Table of Contents  
 1. [Core Java](#core-java)
